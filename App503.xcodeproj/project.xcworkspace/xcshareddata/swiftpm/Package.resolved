@@ -1,0 +1,33 @@
+{
+  "originHash" : "e9e32a4f0382ce0c86e424859cb5b547a59e9a9372a1d67a87fbab75d279f03d",
+  "pins" : [
+    {
+      "identity" : "apphudsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apphud/ApphudSDK",
+      "state" : {
+        "revision" : "fcc4cced82d2cabe65c8566df3f273acacc5b1ab",
+        "version" : "3.2.8"
+      }
+    },
+    {
+      "identity" : "metrica-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yandexmobile/metrica-sdk-ios",
+      "state" : {
+        "revision" : "13d8b11181a33938ef42759d49466a621df5e7db",
+        "version" : "4.5.2"
+      }
+    },
+    {
+      "identity" : "onesignal-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-iOS-SDK.git",
+      "state" : {
+        "revision" : "5ff232ea9392f63e87306752025a45eceb18fa5b",
+        "version" : "5.1.3"
+      }
+    }
+  ],
+  "version" : 3
+}
